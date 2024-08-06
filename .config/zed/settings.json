@@ -16,5 +16,6 @@
   "auto_signature_help": true,
   "inlay_hints": {
     "enabled": true
-  }
+  },
+  "restore_on_startup": "last_workspace"
 }
