@@ -13,7 +13,7 @@
 
 ## Installation
 
-`scripts/install.sh` or clone repo if all requirements done:
+Сlone repo if all requirements done:
 
 ```
 git clone https://github.com/ewwdp/dotfiles.git && cd dotfiles
